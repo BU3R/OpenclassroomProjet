@@ -20,9 +20,7 @@
         <li style="color: green;">Texte en vert</li>
         </ul>
         
-        <?php
-        /* Encore du PHP
-        Toujours du PHP */
-        ?>
+        <?php echo "Cette ligne a été écrite \"uniquement\" en PHP."; ?>
+        
     </body>
 </html>
