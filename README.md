@@ -10,7 +10,7 @@
         
         <p>
             Cette page contient du code HTML avec des balises PHP.<br />
-            <?php /* Insérer du code PHP ici */ ?>
+            <?php echo "Ceci est du <strong>texte</strong>"; ?>
             Voici quelques petits tests :
         </p>
         
